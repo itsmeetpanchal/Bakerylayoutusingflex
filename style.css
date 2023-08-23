@@ -673,7 +673,7 @@ li a {
 }
 
 .orederinputdiv {
-    border: 3px solid green;
+    /* border: 3px solid green; */
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
